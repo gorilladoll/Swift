@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoitSwift_1st_Helloworld/AppDelegate.swift"
+            timestampString = "526309057.768641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoitSwift_1st_Helloworld.AppDelegate.__deallocating_deinit"
+                  moduleName = "DoitSwift_1st_Helloworld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojinkyu/Documents/MyProject/Swift/DoitSwift/DoitSwift_1st_Helloworld/DoitSwift_1st_Helloworld/AppDelegate.swift"
+                  timestampString = "526309158.837233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoitSwift_1st_Helloworld.AppDelegate.init () -&gt; DoitSwift_1st_Helloworld.AppDelegate"
+                  moduleName = "DoitSwift_1st_Helloworld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojinkyu/Documents/MyProject/Swift/DoitSwift/DoitSwift_1st_Helloworld/DoitSwift_1st_Helloworld/AppDelegate.swift"
+                  timestampString = "526309158.839579"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoitSwift_1st_Helloworld.AppDelegate.__allocating_init () -&gt; DoitSwift_1st_Helloworld.AppDelegate"
+                  moduleName = "DoitSwift_1st_Helloworld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojinkyu/Documents/MyProject/Swift/DoitSwift/DoitSwift_1st_Helloworld/DoitSwift_1st_Helloworld/AppDelegate.swift"
+                  timestampString = "526309158.842219"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DoitSwift_1st_Helloworld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jojinkyu/Documents/MyProject/Swift/DoitSwift/DoitSwift_1st_Helloworld/DoitSwift_1st_Helloworld/AppDelegate.swift"
+                  timestampString = "526309158.84732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
